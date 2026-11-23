@@ -1,8 +1,6 @@
 # Residual Effects of Air Travel on Oxygen Saturation in Collegiate American Football Athletes
 
-Eric J. Renaghan, Kyle M. Bellamy — University of Miami
-
-Harrison L. Wittels, Gabriel Huang, Michael J. Wishon — Tiger Tech Solutions
+Eric J. Renaghan, Harrison L. Wittels, Kyle M. Bellamy, Gabriel Huang, Michael J. Wishon
 
 ## Abstract
 
